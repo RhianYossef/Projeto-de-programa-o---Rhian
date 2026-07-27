@@ -42,4 +42,12 @@ text-decoration: none;
 
 h1{
 color: blue;
+font-size: 18px;
+}
+
+footer {
+background-color: darkslategray;
+padding: 15px 25px;
+background-color: darkseagreen;
+
 }
